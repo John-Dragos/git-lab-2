@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: <John Dragos>
  *        Date: <January 26, 2024>
- * Description: Add Description
+ * Description: Lab "Hello" program
  */
 
 #include <iostream>
